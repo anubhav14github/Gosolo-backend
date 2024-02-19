@@ -1,0 +1,10 @@
+{
+
+  "development": {
+    "PORT": 3200,
+    "MONGO_URL": "mongodb+srv://deepak2803:deepak2803@gosolo.pfp4te6.mongodb.net/?retryWrites=true&w=majority"
+  },
+  "production": {
+    "MONGO_URL": "mongodb+srv://deepak2803:deepak2803@gosolo.pfp4te6.mongodb.net/?retryWrites=true&w=majority"
+  }
+}
